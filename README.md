@@ -27,6 +27,9 @@ Here are some ideas to get you started:
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gian1200&size_weight=0.5&count_weight=0.5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### First 1000 Quarkus contributor
+
+  [![Quarkus Contributor](https://quarkus.io/assets/images/1kcontributors/hero_1k_graphic.svg)](https://quarkus.io/1000contributors/#:~:text=Giancarlo%20Calder%C3%B3n%20C%C3%A1rdenas)
 
 ## ☕ Buy me a cofee
 
